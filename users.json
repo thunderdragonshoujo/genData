@@ -1,0 +1,67 @@
+[
+  {
+    "_id": "2a113386-9276-45d5-a84d-c5c88f7e1ff3",
+    "avatar": "https://avatars.githubusercontent.com/u/29440850",
+    "birthday": "1955-02-09T19:17:13.224Z",
+    "email": "Shaun_Graham@gmail.com",
+    "firstName": "Shaun",
+    "lastName": "Graham",
+    "sex": "male",
+    "address": "80761 Cassin Run Suite 668",
+    "city": "Bentonville",
+    "state": "Iowa",
+    "zipCode": "04113"
+  },
+  {
+    "_id": "eacfb2a5-36be-4711-a6fc-cc7d2d8f9902",
+    "avatar": "https://avatars.githubusercontent.com/u/85983150",
+    "birthday": "1986-12-13T19:45:02.913Z",
+    "email": "Vicki_Farrell79@hotmail.com",
+    "firstName": "Vicki",
+    "lastName": "Farrell",
+    "sex": "female",
+    "address": "1516 Willow Street Apt. 234",
+    "city": "Fort Eugeniashire",
+    "state": "Connecticut",
+    "zipCode": "28576"
+  },
+  {
+    "_id": "0f84828a-6efc-46f1-a991-b468fc77f1f7",
+    "avatar": "https://avatars.githubusercontent.com/u/50890484",
+    "birthday": "1982-01-05T07:23:04.922Z",
+    "email": "Katherine_Jones@gmail.com",
+    "firstName": "Katherine",
+    "lastName": "Jones",
+    "sex": "female",
+    "address": "62356 Kertzmann Shoals Apt. 296",
+    "city": "Tianacester",
+    "state": "Oklahoma",
+    "zipCode": "33111-6917"
+  },
+  {
+    "_id": "1119f545-1976-4693-b578-ea9cdd26c32f",
+    "avatar": "https://avatars.githubusercontent.com/u/82324841",
+    "birthday": "1944-01-14T17:02:59.866Z",
+    "email": "Norma.Stroman31@yahoo.com",
+    "firstName": "Norma",
+    "lastName": "Stroman",
+    "sex": "female",
+    "address": "5090 Rosemarie Light Apt. 669",
+    "city": "Lake Cydney",
+    "state": "Iowa",
+    "zipCode": "34766-6108"
+  },
+  {
+    "_id": "f009cb8f-8993-44ed-b98a-caa943abfe78",
+    "avatar": "https://avatars.githubusercontent.com/u/44360738",
+    "birthday": "1960-08-06T20:53:15.053Z",
+    "email": "Brendan_Bogan@yahoo.com",
+    "firstName": "Brendan",
+    "lastName": "Bogan",
+    "sex": "male",
+    "address": "42829 Dakota Run Suite 949",
+    "city": "Thereseview",
+    "state": "Tennessee",
+    "zipCode": "70998"
+  }
+]
